@@ -2,7 +2,7 @@
 main:
     # init
     li $t0, 0x1000A000 # addr to table
-    li $s0, 10
+    li $s0, 1000
 
 
     li $t1, 0 # num of prime-number
