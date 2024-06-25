@@ -1,7 +1,7 @@
 .text
 main:
     #init
-    li $s0, 0x03020104
+    li $s0, 0x06030104
     li $s1, 0
 
     addi $t0, $s0, 0 # laod $s0
